@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/RealTime-Weather-APP/static/css/main.0ac7410c.chunk.css",
-    "main.js": "/RealTime-Weather-APP/static/js/main.09e0641b.chunk.js",
-    "main.js.map": "/RealTime-Weather-APP/static/js/main.09e0641b.chunk.js.map",
+    "main.js": "/RealTime-Weather-APP/static/js/main.6be0b4fd.chunk.js",
+    "main.js.map": "/RealTime-Weather-APP/static/js/main.6be0b4fd.chunk.js.map",
     "runtime-main.js": "/RealTime-Weather-APP/static/js/runtime-main.cab358ec.js",
     "runtime-main.js.map": "/RealTime-Weather-APP/static/js/runtime-main.cab358ec.js.map",
     "static/css/2.679831fc.chunk.css": "/RealTime-Weather-APP/static/css/2.679831fc.chunk.css",
@@ -11,8 +11,6 @@
     "static/js/3.f6f83d87.chunk.js": "/RealTime-Weather-APP/static/js/3.f6f83d87.chunk.js",
     "static/js/3.f6f83d87.chunk.js.map": "/RealTime-Weather-APP/static/js/3.f6f83d87.chunk.js.map",
     "index.html": "/RealTime-Weather-APP/index.html",
-    "service-worker.js": "/RealTime-Weather-APP/service-worker.js",
-    "service-worker.js.map": "/RealTime-Weather-APP/service-worker.js.map",
     "static/css/2.679831fc.chunk.css.map": "/RealTime-Weather-APP/static/css/2.679831fc.chunk.css.map",
     "static/css/main.0ac7410c.chunk.css.map": "/RealTime-Weather-APP/static/css/main.0ac7410c.chunk.css.map",
     "static/js/2.452b62c6.chunk.js.LICENSE.txt": "/RealTime-Weather-APP/static/js/2.452b62c6.chunk.js.LICENSE.txt",
@@ -41,6 +39,6 @@
     "static/css/2.679831fc.chunk.css",
     "static/js/2.452b62c6.chunk.js",
     "static/css/main.0ac7410c.chunk.css",
-    "static/js/main.09e0641b.chunk.js"
+    "static/js/main.6be0b4fd.chunk.js"
   ]
 }
